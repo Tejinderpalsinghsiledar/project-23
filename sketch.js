@@ -38,9 +38,9 @@ function setup() {
 
 	Engine.run(engine);
 
-	box1=new box(400,200,150,20)
-	box2=new box(350,200,20,150)
-	box3=new box(450,200,20,150)
+	box1=new box(400,620,150,20)
+	box2=new box(350,600,20,150)
+	box3=new box(450,600,20,150)
 }
 
 
